@@ -1,0 +1,8 @@
+{
+    "token": "token",
+    "clientId": "777143227525890078",
+    "serverId": "932237941986709504",
+    "developmentMode": true,
+    "statusWebhookURL": "https://discord.com/api/webhooks/X",
+    "databaseURL": "mongodb+srv://"
+}
