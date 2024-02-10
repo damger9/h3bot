@@ -1,0 +1,23 @@
+{
+  "name": "h3bot",
+  "version": "0.0.0",
+  "description": "Open source Discord bot, written and maintained by me, not_h3. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node build/index"
+  },
+  "author": "not_h3",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damger9/h3bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/damger9/h3bot/issues"
+  },
+  "homepage": "https://github.com/damger9/h3bot#readme"
+}
