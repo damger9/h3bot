@@ -1,5 +1,7 @@
 # h3bot
-Open Source Discord Bot, written and maintained by me, not_h3. 
+Open source Discord bot, written and maintained by me, Not_H3. 
+
+H3bot is a Discord bot written using the Discord.JS framework, it is written in TypeScript instead of regular JavaScript because that's what I personally prefer for bots. 
 
 # Usage and installation
 It's very to install h3bot, just follow the following steps as shown below:
